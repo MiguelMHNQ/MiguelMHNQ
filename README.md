@@ -3,8 +3,8 @@
 ##### Ainda em aprendizado, com um grande interesse na area tecnologica desde tempos, com o foco na parte de promagração voltando mais para com sistemas gerais, sites e Jogos.  
 
 ◉ Estudante de Analise e Desenvolvimento de Sistemas <br>
-◉ Objetivos = [Python, Java, JavaScript, C++, Ruby, Dart]
-◉ ATD = "Aprendendo, Tentando e Desenvolvendo!" <br>
+◉ Objetivos = [Python, Java, JavaScript, C++, Ruby, Dart] <br>
+◉ ATD = "Aprendendo, Tentando e Desenvolvendo!" 
 
 
 ### ✜ Estatisticas
