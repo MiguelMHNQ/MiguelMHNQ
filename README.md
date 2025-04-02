@@ -15,6 +15,6 @@
   <img
     alt = "Github Stats"
     height = "180"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&layout=compact"
+    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&include_all_commits=true&theme=onedark&layout=compact"
   />
 </p>
