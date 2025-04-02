@@ -1,16 +1,20 @@
-## Hi there 👋
+## ▣ print("Fala dev, Miguel aqui!") 👋
 
-<!--
-**MiguelMHNQ/MiguelMHNQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Ainda em aprendizado, com um grande interesse na area tecnologica desde tempos, com o foco na parte de promagração voltando mais para com sistemas gerais, sites e Jogos.  
 
-Here are some ideas to get you started:
+◉ Estudante de Analise e Desenvolvimento de Sistemas <br>
+◉ ATD = "Aprendendo, Tentando e Desenvolvendo!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✜ Estatisticas
+<p>
+  <img
+    alt = "Github Stats"]
+    height = "180"
+    src = "https://github-readme-stats.vercel.app/api?username=MiguelMHNQ&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    alt = "Github Stats"
+    height = "180"
+    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&layout=compact"
+  />
+</p>
