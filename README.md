@@ -8,18 +8,6 @@
 
 
 ### ✜ Estatisticas
-<p>
-  <img
-    alt = "Github Stats"]
-    height = "195"
-    src = "https://github-readme-stats.vercel.app/api?username=MiguelMHNQ&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-  <img
-    alt = "Github Stats"
-    height = "195"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&include_all_commits=true&theme=radical&layout=compact"
-  />
-</p>
 <picture align = "center">
   <source media = "(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HavilahSantosP/HavilahSantosP/output/github-contribution-grid-snake-dark.svg">
   <source media = "(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HavilahSantosP/HavilahSantosP/output/github-contribution-grid-snake-dark.svg">
